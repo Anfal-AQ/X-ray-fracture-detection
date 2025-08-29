@@ -41,9 +41,4 @@ Here are some examples of the fracture detection results:
 
 ---
 
-## ⚡ How to Try the Project
-1. Clone the repository:
-```bash
-git clone https://github.com/username/fracture-detection.git
-cd fracture-detection
 
