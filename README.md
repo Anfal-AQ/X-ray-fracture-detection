@@ -20,11 +20,11 @@ This deep learning project applies the YOLO object detection algorithm to detect
 
 ## 📊 Model Performance
 
-### Confusion Matrix
+### - Confusion Matrix
 Here is the confusion matrix showing the model performance on the test dataset:  
 <img src="X-ray-fracture-detection/assets/confusion_matrix.png" alt="Confusion Matrix" width="400"/>
 
-### F1 Curve
+### - F1 Curve
 The F1 curve shows the balance between precision and recall for the model:  
 <img src="X-ray-fracture-detection/assets/F1_curve.png" alt="F1 Curve" width="400"/>
 
