@@ -1,0 +1,7 @@
+train: /kaggle/input/dataset-bone-fracture/train/images
+val: /kaggle/input/dataset-bone-fracture/valid/images
+
+
+nc: 1
+names: ['Bone fracture']
+
