@@ -22,20 +22,19 @@ This deep learning project applies the YOLO object detection algorithm to detect
 
 ### Confusion Matrix
 Here is the confusion matrix showing the model performance on the test dataset:  
-![Confusion Matrix](X-ray-fracture-detection/assets/confusion_matrix.png)
+<img src="X-ray-fracture-detection/assets/confusion_matrix.png" alt="Confusion Matrix" width="400"/>
 
 ### F1 Curve
 The F1 curve shows the balance between precision and recall for the model:  
-![F1 Curve](X-ray-fracture-detection/assets/F1_curve.png)
+<img src="X-ray-fracture-detection/assets/F1_curve.png" alt="F1 Curve" width="400"/>
 
 ---
 
 ## 📷 Output Examples
 Here are some examples of the fracture detection results:  
 
-![Output Example 1](X-ray-fracture-detection/assets/Output(a).jpg)  
-![Output Example 2](X-ray-fracture-detection/assets/Output(b).jpg)  
-
+<img src="X-ray-fracture-detection/assets/Output(a).jpg" alt="Output Example 1" width="300"/>  
+<img src="X-ray-fracture-detection/assets/Output(b).jpg" alt="Output Example 2" width="300"/>  
 
 > These results demonstrate the model's capability in detecting fractures reliably.
 
