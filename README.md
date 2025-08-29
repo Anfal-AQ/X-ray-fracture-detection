@@ -33,9 +33,9 @@ The F1 curve shows the balance between precision and recall for the model:
 ## 📷 Output Examples
 Here are some examples of the fracture detection results:  
 
-![Output Example 1](assets/output1.png)  
-![Output Example 2](assets/output2.png)  
-![Output Example 3](assets/output3.png)  
+![Output Example 1](X-ray-fracture-detection/assets/Output(1).png)  
+![Output Example 2](X-ray-fracture-detection/assets/Output(2).png)  
+
 
 > These results demonstrate the model's capability in detecting fractures reliably.
 
