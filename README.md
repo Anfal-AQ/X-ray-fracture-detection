@@ -26,7 +26,7 @@ Here is the confusion matrix showing the model performance on the test dataset:
 
 ### F1 Curve
 The F1 curve shows the balance between precision and recall for the model:  
-![F1 Curve](assets/f1_curve.png)
+![F1 Curve](X-ray-fracture-detection/assets/F1_curve.png)
 
 ---
 
